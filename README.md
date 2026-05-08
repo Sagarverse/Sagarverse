@@ -171,9 +171,6 @@ Production Android and iOS applications across e-commerce, healthcare, education
 ## GitHub Activity
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=6B7FFF&icon_color=6B7FFF&text_color=8B8FA8&bg_color=00000000" />&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=6B7FFF&text_color=8B8FA8&bg_color=00000000" />
-
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sagarverse&hide_border=true&background=00000000&ring=6B7FFF&fire=6B7FFF&currStreakLabel=6B7FFF&sideLabels=8B8FA8&dates=555570&stroke=6B7FFF22&currStreakNum=E8E8F0&sideNums=E8E8F0)](https://git.io/streak-stats)
@@ -206,7 +203,6 @@ Production Android and iOS applications across e-commerce, healthcare, education
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sagarverse&style=flat-square&color=6B7FFF&label=profile+views)
 
 <br/><br/>
 
