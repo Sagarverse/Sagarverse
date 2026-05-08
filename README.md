@@ -13,14 +13,10 @@ I am a passionate **Android Developer** and **Full-Stack Enthusiast** dedicated 
 * **[Big-rupee](https://github.com/Sagarverse/Big-rupee):** A Flutter-based financial tracking app designed for students to improve budgeting habits.
 * **[OrbisOS](https://github.com/Sagarverse/OrbisOS):** Exploring custom OS components using Kotlin.
 
-### 📊 My GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=compact&theme=dark)
 
 ### 📫 Let's Connect!
 - 📧 Email: [sagarm.2k5@gmail.com](mailto:sagarm.2k5@gmail.com)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE) ```
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/sagarverse)
 ---
 
 ### 💡 Tips for a Better Profile
