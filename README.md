@@ -110,7 +110,7 @@ Professional-grade Android cybersecurity toolkit for penetration testers. Blueto
 </td>
 <td width="50%" valign="top">
 
-**[AgriConnect](https://github.com/Sagarverse/CropGuard) — 🏆 Udaya 1.0 Winner · ₹15,000**
+**[AgriConnect](https://github.com/Sagarverse/AgriConnect) — 🏆 Udaya 1.0 Winner · ₹15,000**
 
 CNN crop disease detection at 92%+ accuracy. ML regression for yield prediction on real agricultural datasets. Flutter app with real-time market price APIs, offline SMS alerts for rural users, and Azure-hosted backend with CI/CD.
 
@@ -131,7 +131,7 @@ AI-driven resource management simulation for Mars habitats. Shortlisted from 57,
 </td>
 <td width="50%" valign="top">
 
-**Blockchain AgriTech — 🌾 Eurekathon 3.0 Best in AgriTech**
+**[Blockchain AgriTech](https://github.com/Sagarverse/OrganicChain) — 🌾 Eurekathon 3.0 Best in AgriTech**
 
 Tamper-proof farm-to-consumer produce tracking on Ethereum. Smart contracts enforce on-chain immutability, eliminating supply-chain fraud. Full DApp with React.js frontend.
 
