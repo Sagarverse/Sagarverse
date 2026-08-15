@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1b27,50:2d1b69,70:6c3fcf,90:a855f7,100:c084fc&height=220&section=header&text=SAGAR%20M&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Customer%20Success%20Apprentice%20%40%20Commvault%20%E2%80%A2%20Full-Stack%20Developer&descColor=c084fc&descAlignY=55&descSize=16&animation=twinkling"/>
-
-<!-- ANIMATED TYPING -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+at+the+Intersection+of;Engineering+%26+Customer+Impact)](https://github.com/Sagarverse)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a1b27,70:4d21fc,100:8b5cf6&height=220&section=header&text=SAGAR%20M&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Customer%20Success%20Apprentice%20%40%20Commvault%20%E2%80%A2%20Full-Stack%20Developer&descColor=c084fc&descAlignY=55&descSize=16&animation=twinkling"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=35&lines=NASA+Space+Apps+Global+Nominee+%7C+57%2C000%2B+participants+%7C+150%2B+countries;4%C3%97+Hackathon+Champion+%7C+15%2B+Production+Apps+%7C+25%2B+Repositories;Customer+Success+Apprentice+%40+Commvault+%7C+Azure+DP-900+Certified;B.Tech+CSE+(Data+Science)+%40+Dayananda+Sagar+University+%7C+CGPA+8.67)](https://github.com/Sagarverse)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+at+the+Intersection+of;Engineering+%26+Customer+Impact)](https://github.com/Sagarverse)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=800&height=35&lines=NASA+Space+Apps+Global+Nominee+%7C+57%2C000%2B+participants+%7C+150%2B+countries;4%C3%97+Hackathon+Champion+%7C+15%2B+Production+Apps+%7C+25%2B+Repositories;Customer+Success+Apprentice+%40+Commvault+%7C+Azure+DP-900+Certified;B.Tech+CSE+(Data+Science)+%40+Dayananda+Sagar+University+%7C+CGPA+8.67)](https://github.com/Sagarverse)
 
 <br/>
 
@@ -22,22 +21,19 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Sagarverse&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/Sagarverse?tab=followers"><img src="https://img.shields.io/github/followers/Sagarverse?style=for-the-badge&logo=github&color=6c3fcf&labelColor=1a1b27"/></a>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Sagarverse&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT ME SECTION -->
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="240"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" width="240"/>
 
 ```js
 const sagar = {
@@ -52,8 +48,6 @@ const sagar = {
         "🔧 Building internal tools & dashboards",
         "📊 Customer health metrics & QBR prep"
     ],
-    
-    previouslyAt: "NTT Data — ITSM, ServiceNow, Agile",
     
     passions: [
         "Full-Stack Development",
@@ -74,26 +68,21 @@ const sagar = {
 
 <br/>
 
-## 🏢 Currently
+## 🏢 Currently Working At
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="100%">
-
 <br/>
 
-<img src="https://img.shields.io/badge/Commvault-FF6600?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4="/>&nbsp;&nbsp;**Customer Success Apprentice**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Commvault_logo.svg/512px-Commvault_logo.svg.png" width="280" alt="Commvault"/>
+<br/><br/>
+
+### **Customer Success Apprentice**
 
 *Working at the intersection of enterprise data protection technology and customer impact*
 
 `Data Protection` `Cyber Resilience` `Customer Onboarding` `Technical Issue Resolution` `QBR Preparation`
 
 <br/>
-
-</td>
-</tr>
-</table>
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -104,11 +93,6 @@ const sagar = {
 ## 🏆 Achievements Wall
 
 <div align="center">
-
-<!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sagarverse&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%"/>
-
-<br/><br/>
 
 <table>
 <tr>
@@ -151,8 +135,6 @@ const sagar = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-<!-- SKILL ICONS - using skillicons.dev for beautiful icons -->
 
 #### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,dart,java,solidity,c&theme=dark&perline=8" /></a>
@@ -338,13 +320,8 @@ Cross-device workspace — file sharing at **boundless speeds**, clipboard sync,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&ring_color=a855f7" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarverse&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555570&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarverse&bg_color=0d1117&color=a855f7&line=6c3fcf&point=c084fc&area=true&area_color=2d1b6920&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&ring_color=8b5cf6" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarverse&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=555570&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
 
 </div>
 
@@ -415,18 +392,7 @@ Cross-device workspace — file sharing at **boundless speeds**, clipboard sync,
 
 *"I don't just build software — I understand the people who use it."*
 
-<br/>
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
 </div>
 
 <!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,20:a855f7,40:6c3fcf,60:2d1b69,80:1a1b27,100:0d1117&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,30:4d21fc,70:1a1b27,100:000000&height=120&section=footer&animation=twinkling"/>
