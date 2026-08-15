@@ -33,8 +33,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" width="240"/>
-
 ```js
 const sagar = {
     role: "Customer Success Apprentice @ Commvault",
@@ -308,20 +306,6 @@ Cross-device workspace — file sharing at **boundless speeds**, clipboard sync,
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&ring_color=8b5cf6" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarverse&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=555570&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
 
 </div>
 
