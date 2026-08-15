@@ -1,162 +1,219 @@
 <div align="center">
 
-<picture>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:0a0a1a,100:050505&height=280&section=header&text=SAGAR%20M&fontSize=90&fontColor=E8E8F0&fontAlignY=45&desc=Customer%20Success%20Apprentice%20%40%20Commvault%20%C2%B7%20Full-Stack%20Developer&descColor=6B7FFF&descAlignY=65&descSize=16&animation=fadeIn"/>
-</picture>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1b27,50:2d1b69,70:6c3fcf,90:a855f7,100:c084fc&height=220&section=header&text=SAGAR%20M&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Customer%20Success%20Apprentice%20%40%20Commvault%20%E2%80%A2%20Full-Stack%20Developer&descColor=c084fc&descAlignY=55&descSize=16&animation=twinkling"/>
+
+<!-- ANIMATED TYPING -->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Building+at+the+Intersection+of;Engineering+%26+Customer+Impact)](https://github.com/Sagarverse)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2000&color=6B7FFF&center=true&vCenter=true&width=620&height=40&lines=Customer+Success+Apprentice+%40+Commvault;NASA+Space+Apps+Global+Nominee+%E2%80%94+57%2C000%2B+participants;4%C3%97+Hackathon+Champion+%C2%B7+15%2B+Apps+Built;B.Tech+CSE+(Data+Science)+%40+DSU+Bengaluru;Building+at+the+intersection+of+Engineering+%26+Customer+Impact)](https://github.com/Sagarverse)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=35&lines=NASA+Space+Apps+Global+Nominee+%7C+57%2C000%2B+participants+%7C+150%2B+countries;4%C3%97+Hackathon+Champion+%7C+15%2B+Production+Apps+%7C+25%2B+Repositories;Customer+Success+Apprentice+%40+Commvault+%7C+Azure+DP-900+Certified;B.Tech+CSE+(Data+Science)+%40+Dayananda+Sagar+University+%7C+CGPA+8.67)](https://github.com/Sagarverse)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarverse-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a1a)](https://linkedin.com/in/sagarverse)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C853?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a1a)](https://smart-portfolio-blush.vercel.app/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-sagisagar1974%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:sagisagar1974@gmail.com)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-Sagarverse-E8E8F0?style=flat-square&logo=github&logoColor=black&labelColor=0a0a1a)](https://github.com/Sagarverse)&nbsp;&nbsp;![Location](https://img.shields.io/badge/Bengaluru%2C_Karnataka-India-6B7FFF?style=flat-square&labelColor=0a0a1a)
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/sagarverse"><img src="https://img.shields.io/badge/LinkedIn-sagarverse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://smart-portfolio-blush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_↗-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:sagisagar1974@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Sagarverse"><img src="https://img.shields.io/badge/GitHub-Sagarverse-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Sagarverse&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://github.com/Sagarverse?tab=followers"><img src="https://img.shields.io/github/followers/Sagarverse?style=for-the-badge&logo=github&color=6c3fcf&labelColor=1a1b27"/></a>
 
 </div>
 
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ABOUT ME SECTION -->
 <br/>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarverse&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="240"/>
 
-```kotlin
-object Sagar {
-    val role      = "Customer Success Apprentice @ Commvault"
-    val degree    = "B.Tech CSE (Data Science) — Dayananda Sagar University (2027)"
-    val building  = "Enterprise Data Protection · Full-Stack Apps · AI/ML Systems"
-    val focus     = "Customer Success × Engineering — bridging tech and business impact"
-    val wins      = listOf(
-        "NASA Space Apps — Global Nominee (57,000+ participants, 150+ countries)",
-        "Udaya 1.0 Hackathon — Winner · ₹15,000",
-        "DSU DevHack 2.0 — Winner · \$1,000 Vultr Cloud Credits",
-        "Eurekathon 3.0 — Winner · Best in AgriTech",
-        "Unisys Innovation Program Yr 17 — National Top 9",
-        "YUVAI National Initiative — Top 50 · AI for Social Impact"
-    )
-    val apps      = "15+ production apps across Web, Mobile, AI/ML & Blockchain"
-    val certified = "Microsoft Azure DP-900"
-}
+```js
+const sagar = {
+    role: "Customer Success Apprentice @ Commvault",
+    education: "B.Tech CSE (Data Science) — DSU, Bengaluru",
+    cgpa: 8.67,
+    graduation: 2027,
+    
+    currentlyDoing: [
+        "🏢 Driving customer adoption @ Commvault",
+        "🛡️ Enterprise data protection & cyber resilience",
+        "🔧 Building internal tools & dashboards",
+        "📊 Customer health metrics & QBR prep"
+    ],
+    
+    previouslyAt: "NTT Data — ITSM, ServiceNow, Agile",
+    
+    passions: [
+        "Full-Stack Development",
+        "AI/ML & Deep Learning",
+        "Android & Mobile Apps",
+        "Cybersecurity",
+        "Blockchain"
+    ],
+    
+    funFact: "I build products AND talk to the people who use them"
+};
 ```
 
-<br/>
+<br clear="both"/>
 
----
-
-<br/>
-
-## 💼 Currently
-
-> **Customer Success Apprentice @ [Commvault](https://www.commvault.com)**
->
-> Working at the intersection of enterprise data protection technology and customer impact. Supporting customer onboarding, adoption, and technical issue resolution for Commvault's cyber resilience platform.
->
-> *Previously:* Enterprise IT Trainee @ NTT Data (ServiceNow, ITSM, Agile)
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
----
+## 🏢 Currently
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
 <br/>
 
-## Tech Stack
+<img src="https://img.shields.io/badge/Commvault-FF6600?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4="/>&nbsp;&nbsp;**Customer Success Apprentice**
+
+*Working at the intersection of enterprise data protection technology and customer impact*
+
+`Data Protection` `Cyber Resilience` `Customer Onboarding` `Technical Issue Resolution` `QBR Preparation`
+
+<br/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 Achievements Wall
 
 <div align="center">
 
-**Languages**
+<!-- GITHUB TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sagarverse&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+<br/><br/>
 
-<br/>
-
-**AI · ML · GenAI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-<br/>
-
-**Android · Mobile · Web**
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-<br/>
-
-**Cloud · DevOps · Databases**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌍_NASA_Space_Apps-Global_Nominee-A855F7?style=for-the-badge"/>
+<br/><sub><b>57,000+ participants · 150+ countries</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇_Udaya_1.0-Winner-FFD700?style=for-the-badge"/>
+<br/><sub><b>₹15,000 Prize · AgriConnect</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇_DSU_DevHack_2.0-Winner-00D4AA?style=for-the-badge"/>
+<br/><sub><b>$1,000 Cloud Credit</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇_Eurekathon_3.0-Best_in_AgriTech-FF6B6B?style=for-the-badge"/>
+<br/><sub><b>Blockchain DApp · OrganicChain</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🇮🇳_Unisys_Innovation-National_Top_9-3B82F6?style=for-the-badge"/>
+<br/><sub><b>CropGuard · Year 17</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🇮🇳_YUVAI_National-Top_50-10B981?style=for-the-badge"/>
+<br/><sub><b>AI for Social Impact</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/>
 
----
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<!-- SKILL ICONS - using skillicons.dev for beautiful icons -->
+
+#### Languages
+<a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,dart,java,solidity,c&theme=dark&perline=8" /></a>
+
+#### Frontend & Mobile
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,androidstudio,materialui,tailwind,html,css&theme=dark&perline=8" /></a>
+
+#### Backend & Databases
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,firebase,postgres,mongodb,redis&theme=dark&perline=8" /></a>
+
+#### AI/ML & Cloud
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,azure,aws,docker,git,github&theme=dark&perline=8" /></a>
+
+#### Tools & Platforms
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,vercel,githubactions&theme=dark&perline=6" /></a>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## Selected Projects
+## 🔥 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Hackie](https://github.com/Sagarverse/Hackie) — 🛡️ Cybersecurity Toolkit**
+<h3 align="center"><a href="https://github.com/Sagarverse/Agriconnect">🌱 AgriConnect</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-₹15,000-FFD700?style=flat-square"/>
+</p>
 
-Professional-grade Android cybersecurity toolkit — network scanning, port discovery, packet analysis, and vulnerability assessment. Native Kotlin with MVVM + Hilt + Room architecture, OWASP-aligned.
+AI crop disease detection at **92% accuracy** across 38 classes. Flutter app with Azure backend, market price APIs, and offline SMS alerts for rural farmers.
 
-`Kotlin` `Jetpack Compose` `Coroutines` `Hilt` `OWASP`
-
-</td>
-<td width="50%" valign="top">
-
-**[AgriConnect](https://github.com/Sagarverse/Agriconnect) — 🏆 Udaya 1.0 Winner · ₹15,000**
-
-CNN crop disease detection at 92%+ accuracy across 38 classes. ML yield prediction, Flutter mobile app with real-time market price APIs, offline SMS alerts for rural users, and Azure backend.
-
-`Python` `TensorFlow` `Flutter` `Firebase` `Azure`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-**Recycle in Mars — 🌍 NASA Space Apps Global Nominee**
-
-AI-driven resource management simulation for Mars habitats. Shortlisted from 57,000+ participants across 150+ countries. React.js + D3.js real-time mission dashboard with 6 visualization panels.
-
-`Python` `React.js` `D3.js` `Node.js` `Optimization`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**[OrganicChain](https://github.com/Sagarverse/OrganicChain) — 🥇 Eurekathon 3.0 Best in AgriTech**
+<h3 align="center"><a href="https://github.com/Sagarverse/OrganicChain">⛓️ OrganicChain</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🥇_Best_in_AgriTech-Eurekathon_3.0-FF6B6B?style=flat-square"/>
+</p>
 
-Tamper-proof farm-to-consumer supply chain traceability on Ethereum. Smart contracts enforce on-chain immutability. Full DApp with React.js frontend.
+Tamper-proof farm-to-consumer supply chain on **Ethereum**. Smart contracts enforce on-chain immutability for organic product verification.
 
-`Solidity` `Ethereum` `Smart Contracts` `React.js` `Node.js`
+<p align="center">
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -164,20 +221,36 @@ Tamper-proof farm-to-consumer supply chain traceability on Ethereum. Smart contr
 <tr>
 <td width="50%" valign="top">
 
-**[CropGuard](https://github.com/Sagarverse/CropGuard) — 🇮🇳 Unisys National Top 9**
+<h3 align="center"><a href="https://github.com/Sagarverse/Hackie">🛡️ Hackie</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/OWASP_Compliant-Cybersecurity-A855F7?style=flat-square"/>
+</p>
 
-Predictive pest management platform using 5 years of historical agricultural data. Advanced through multiple national evaluation rounds at Unisys Innovation Program Year 17.
+Professional-grade **4-module** Android cybersecurity toolkit — network scanning, port discovery, packet analysis, vulnerability assessment. MVVM + Hilt.
 
-`Python` `Machine Learning` `Predictive Analytics`
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-FF6F00?style=flat-square&logo=android&logoColor=white"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**[Smart Portfolio](https://github.com/Sagarverse/Smart_Portfolio) — 🌐 [Live](https://smart-portfolio-blush.vercel.app/)**
+<h3 align="center">🌍 Recycle in Mars</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🚀_NASA_Space_Apps-Global_Nominee-00C853?style=flat-square"/>
+</p>
 
-Full-stack portfolio & productivity hub — real-time clipboard sync, notes, file storage. Responsive across 15+ device types. Deployed on Vercel with CI/CD.
+AI-driven **Mars habitat** resource management simulation. Selected from **57,000+** participants. Real-time dashboard with 6 visualization panels.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Vercel`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -185,73 +258,175 @@ Full-stack portfolio & productivity hub — real-time clipboard sync, notes, fil
 <tr>
 <td width="50%" valign="top">
 
-**[Speaky](https://github.com/Sagarverse/Speaky) — 🎙️ AI Teleprompter**
+<h3 align="center"><a href="https://github.com/Sagarverse/CropGuard">🌾 CropGuard</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🇮🇳_National_Top_9-Unisys_Innovation-3B82F6?style=flat-square"/>
+</p>
 
-Premium AI-powered smart teleprompter with Gemini AI script generation, stealth Ghost Mode, and deep TTS customization for flawless presentations.
+Predictive pest management platform using **5 years** of historical agricultural data. Advanced through multiple national evaluation rounds.
 
-`Flutter` `Dart` `Gemini AI` `TTS`
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Predictive_Analytics-6c3fcf?style=flat-square"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**[Wire](https://github.com/Sagarverse/Wire) — 🔗 Cross-Device Workspace**
+<h3 align="center"><a href="https://github.com/Sagarverse/Smart_Portfolio">🌐 Smart Portfolio</a></h3>
+<p align="center">
+<a href="https://smart-portfolio-blush.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_App-Visit_↗-A855F7?style=flat-square"/></a>
+</p>
 
-Seamless device linking — file sharing at boundless speeds, clipboard sync, SMS on PC, and screen mirroring. All over local Wi-Fi, zero cloud dependency.
+Full-stack portfolio & **productivity hub** — clipboard sync, notes, file storage. Responsive across 15+ devices. Deployed on Vercel with CI/CD.
 
-`Flutter` `Dart` `WebSocket` `Local Network`
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Sagarverse/Speaky">🎙️ Speaky</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/AI_Powered-Gemini_AI-8B5CF6?style=flat-square"/>
+</p>
+
+Premium AI-powered **smart teleprompter** with Gemini AI script generation, stealth Ghost Mode, and deep TTS customization.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/Sagarverse/Wire">🔗 Wire</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Zero_Cloud-Local_WiFi-10B981?style=flat-square"/>
+</p>
+
+Cross-device workspace — file sharing at **boundless speeds**, clipboard sync, SMS on PC, screen mirroring. All over local Wi-Fi.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/>
+</p>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/>
 
----
-
-<br/>
-
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sagarverse&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&ring_color=a855f7" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagarverse&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=555570&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
+
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sagarverse&hide_border=true&background=00000000&ring=6B7FFF&fire=6B7FFF&currStreakLabel=6B7FFF&sideLabels=8B8FA8&dates=555570&stroke=6B7FFF22&currStreakNum=E8E8F0&sideNums=E8E8F0)](https://git.io/streak-stats)
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagarverse&bg_color=0d1117&color=a855f7&line=6c3fcf&point=c084fc&area=true&area_color=2d1b6920&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-AI_Foundation-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-Data_Science_Pro-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarverse&bg_color=00000000&color=6B7FFF&line=6B7FFF&point=E8E8F0&hide_border=true&area=true&area_color=6B7FFF)](https://github.com/Sagarverse)
+<img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Snowflake-Developer-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
 <br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## Certifications
+## 🎯 What's Next
 
 <div align="center">
 
-![Azure DP-900](https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)&nbsp;![Oracle AI Foundation](https://img.shields.io/badge/Oracle_AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;![Oracle Data Science](https://img.shields.io/badge/Oracle_Data_Science-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-181717?style=flat-square&logo=github&logoColor=white)&nbsp;![Snowflake](https://img.shields.io/badge/Snowflake_Developer-29B5E8?style=flat-square&logo=snowflake&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/Figma_UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   🏢  Growing at Commvault → Solutions Engineer / SDE        ║
+  ║   🔧  Building internal tools & automation                   ║
+  ║   🧠  Deep diving into enterprise data protection            ║
+  ║   🚀  Open to: SDE / Solutions Engineer roles (2027+)        ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <div align="center">
 
+### 💬 Let's Connect & Build Together
+
+<br/>
+
+<a href="https://linkedin.com/in/sagarverse"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://smart-portfolio-blush.vercel.app/"><img src="https://img.shields.io/badge/View_My_Work-Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="mailto:sagisagar1974@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-*currently @ commvault · always building · always learning*
+*"I don't just build software — I understand the people who use it."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0a1a,100:050505&height=100&section=footer&animation=fadeIn"/>
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 </div>
+
+<!-- ANIMATED FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,20:a855f7,40:6c3fcf,60:2d1b69,80:1a1b27,100:0d1117&height=120&section=footer&animation=twinkling"/>
