@@ -37,7 +37,7 @@
 const sagar = {
     role: "Customer Success Apprentice @ Commvault",
     education: "B.Tech CSE (Data Science) — DSU, Bengaluru",
-    cgpa: 8.67,
+    cgpa: 8.87,
     graduation: 2027,
     
     currentlyDoing: [
